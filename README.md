@@ -21,5 +21,6 @@ Este repositório guarda as imagens dos posts publicados no Instagram do MultiDi
 |---|---|---|
 | 29/10/2026 | Claude Docs, Slides e Design liberados em todos os planos | [`posts/2026-10-29-claude-docs-slides-design`](posts/2026-10-29-claude-docs-slides-design) |
 | 29/10/2026 | Google DeepMind lança o Genie 4 (slot 01) | [`posts/2026-10-29-slot01-genie-4`](posts/2026-10-29-slot01-genie-4) |
+| 29/10/2026 | Apple corrige falha do CoreGraphics em iPhones antigos (slot 02) | [`posts/2026-10-29-slot02-ios-18-7-11`](posts/2026-10-29-slot02-ios-18-7-11) |
 
 #multidicastec
