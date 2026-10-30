@@ -32,5 +32,6 @@ Este repositório guarda as imagens dos posts publicados no Instagram do MultiDi
 | 30/10/2026 | Primeira "bug" de computador era uma mariposa (slot 09) | [`posts/2026-10-30-slot09-bug-mariposa`](posts/2026-10-30-slot09-bug-mariposa) |
 | 30/10/2026 | História do e-mail: de 1971 ao Gmail (slot 10) | [`posts/2026-10-30-slot10-historia-email`](posts/2026-10-30-slot10-historia-email) |
 | 30/10/2026 | Falha no Telegram para Android ao atender chamada (slot 12) | [`posts/2026-10-30-slot12-telegram-android-falha`](posts/2026-10-30-slot12-telegram-android-falha) |
+| 30/10/2026 | Curiosidade: o computador da missão Apollo tinha 2.048 palavras de memória (slot 14) | [`posts/2026-10-30-slot14-agc-2048-palavras`](posts/2026-10-30-slot14-agc-2048-palavras) |
 
 #multidicastec
