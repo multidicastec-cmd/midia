@@ -34,5 +34,6 @@ Este repositório guarda as imagens dos posts publicados no Instagram do MultiDi
 | 30/10/2026 | Falha no Telegram para Android ao atender chamada (slot 12) | [`posts/2026-10-30-slot12-telegram-android-falha`](posts/2026-10-30-slot12-telegram-android-falha) |
 | 30/10/2026 | Curiosidade: o computador da missão Apollo tinha 2.048 palavras de memória (slot 14) | [`posts/2026-10-30-slot14-agc-2048-palavras`](posts/2026-10-30-slot14-agc-2048-palavras) |
 | 30/10/2026 | História da tecnologia: do Multics ao Unix (slot 15) | [`posts/2026-10-30-slot15-multics-unix`](posts/2026-10-30-slot15-multics-unix) |
+| 30/10/2026 | Novidade de IA: ChatGPT ganha plugins de iCloud Mail e Calendário (slot 16) | [`posts/2026-10-30-slot16-chatgpt-icloud`](posts/2026-10-30-slot16-chatgpt-icloud) |
 
 #multidicastec
