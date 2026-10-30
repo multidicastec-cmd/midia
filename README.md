@@ -30,5 +30,6 @@ Este repositório guarda as imagens dos posts publicados no Instagram do MultiDi
 | 30/10/2026 | WhatsApp lança 4 novidades para grupos (slot 07) | [`posts/2026-10-30-slot07-whatsapp-grupos`](posts/2026-10-30-slot07-whatsapp-grupos) |
 | 30/10/2026 | Dica prática: pesquisar na tela com o Circle to Search (slot 08) | [`posts/2026-10-30-slot08-circle-to-search`](posts/2026-10-30-slot08-circle-to-search) |
 | 30/10/2026 | Primeira "bug" de computador era uma mariposa (slot 09) | [`posts/2026-10-30-slot09-bug-mariposa`](posts/2026-10-30-slot09-bug-mariposa) |
+| 30/10/2026 | História do e-mail: de 1971 ao Gmail (slot 10) | [`posts/2026-10-30-slot10-historia-email`](posts/2026-10-30-slot10-historia-email) |
 
 #multidicastec
