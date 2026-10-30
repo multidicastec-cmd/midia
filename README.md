@@ -28,5 +28,6 @@ Este repositório guarda as imagens dos posts publicados no Instagram do MultiDi
 | 30/10/2026 | História do mouse: de 1967 à Apple Macintosh (slot 05) | [`posts/2026-10-30-slot05-historia-mouse`](posts/2026-10-30-slot05-historia-mouse) |
 | 30/10/2026 | OpenAI libera texting por iMessage/RCS no Dot do ChatGPT (slot 06) | [`posts/2026-10-30-slot06-dot-texting`](posts/2026-10-30-slot06-dot-texting) |
 | 30/10/2026 | WhatsApp lança 4 novidades para grupos (slot 07) | [`posts/2026-10-30-slot07-whatsapp-grupos`](posts/2026-10-30-slot07-whatsapp-grupos) |
+| 30/10/2026 | Dica prática: pesquisar na tela com o Circle to Search (slot 08) | [`posts/2026-10-30-slot08-circle-to-search`](posts/2026-10-30-slot08-circle-to-search) |
 
 #multidicastec
