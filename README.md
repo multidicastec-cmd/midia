@@ -25,5 +25,6 @@ Este repositório guarda as imagens dos posts publicados no Instagram do MultiDi
 | 30/10/2026 | Mistral Large 4 vira open-weight (slot 01) | [`posts/2026-10-30-slot01-mistral-large-4`](posts/2026-10-30-slot01-mistral-large-4) |
 | 30/10/2026 | Samsung encerra o app Samsung News em 21/12 (slot 02) | [`posts/2026-10-30-slot02-samsung-news-fim`](posts/2026-10-30-slot02-samsung-news-fim) |
 | 30/10/2026 | ARPANET: a primeira mensagem da internet foi "LO" (slot 04) | [`posts/2026-10-30-slot04-arpanet-lo`](posts/2026-10-30-slot04-arpanet-lo) |
+| 30/10/2026 | História do mouse: de 1967 à Apple Macintosh (slot 05) | [`posts/2026-10-30-slot05-historia-mouse`](posts/2026-10-30-slot05-historia-mouse) |
 
 #multidicastec
