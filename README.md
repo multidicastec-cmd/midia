@@ -36,5 +36,6 @@ Este repositório guarda as imagens dos posts publicados no Instagram do MultiDi
 | 30/10/2026 | História da tecnologia: do Multics ao Unix (slot 15) | [`posts/2026-10-30-slot15-multics-unix`](posts/2026-10-30-slot15-multics-unix) |
 | 30/10/2026 | Novidade de IA: ChatGPT ganha plugins de iCloud Mail e Calendário (slot 16) | [`posts/2026-10-30-slot16-chatgpt-icloud`](posts/2026-10-30-slot16-chatgpt-icloud) |
 | 30/10/2026 | Notícia de tecnologia: SK hynix prevê escassez de memória até 2030 (slot 17) | [`posts/2026-10-30-slot17-memoria-2030`](posts/2026-10-30-slot17-memoria-2030) |
+| 30/10/2026 | Dica prática: desfazer envio no Gmail (slot 18) | [`posts/2026-10-30-slot18-gmail-desfazer-envio`](posts/2026-10-30-slot18-gmail-desfazer-envio) |
 
 #multidicastec
