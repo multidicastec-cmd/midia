@@ -26,5 +26,6 @@ Este repositório guarda as imagens dos posts publicados no Instagram do MultiDi
 | 30/10/2026 | Samsung encerra o app Samsung News em 21/12 (slot 02) | [`posts/2026-10-30-slot02-samsung-news-fim`](posts/2026-10-30-slot02-samsung-news-fim) |
 | 30/10/2026 | ARPANET: a primeira mensagem da internet foi "LO" (slot 04) | [`posts/2026-10-30-slot04-arpanet-lo`](posts/2026-10-30-slot04-arpanet-lo) |
 | 30/10/2026 | História do mouse: de 1967 à Apple Macintosh (slot 05) | [`posts/2026-10-30-slot05-historia-mouse`](posts/2026-10-30-slot05-historia-mouse) |
+| 30/10/2026 | OpenAI libera texting por iMessage/RCS no Dot do ChatGPT (slot 06) | [`posts/2026-10-30-slot06-dot-texting`](posts/2026-10-30-slot06-dot-texting) |
 
 #multidicastec
