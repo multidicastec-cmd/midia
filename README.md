@@ -39,5 +39,6 @@ Este repositório guarda as imagens dos posts publicados no Instagram do MultiDi
 | 30/10/2026 | Dica prática: desfazer envio no Gmail (slot 18) | [`posts/2026-10-30-slot18-gmail-desfazer-envio`](posts/2026-10-30-slot18-gmail-desfazer-envio) |
 | 30/10/2026 | História da web: de 1989 a 1993, do CERN ao domínio público (slot 20) | [`posts/2026-10-30-slot20-historia-web`](posts/2026-10-30-slot20-historia-web) |
 | 30/10/2026 | Curiosidade: a primeira foto digital levou 23 segundos, em 1975 (slot 19) | [`posts/2026-10-30-slot19-primeira-foto-digital`](posts/2026-10-30-slot19-primeira-foto-digital) |
+| 31/10/2026 | Novidade de IA: Google lança o Gemini 4 Carbon (slot 01) | [`posts/2026-10-31-slot01-gemini-4-carbon`](posts/2026-10-31-slot01-gemini-4-carbon) |
 
 #multidicastec
