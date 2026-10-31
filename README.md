@@ -48,5 +48,6 @@ Este repositório guarda as imagens dos posts publicados no Instagram do MultiDi
 | 31/10/2026 | Notícia: CEO da Verizon e Musk divergem sobre prazo da rede móvel da SpaceX (slot 07) | [`posts/2026-10-31-slot07-verizon-spacex-rede`](posts/2026-10-31-slot07-verizon-spacex-rede) |
 | 31/10/2026 | Como criar filtros no Gmail (slot 08) | [`posts/2026-10-31-slot08-gmail-filtros`](posts/2026-10-31-slot08-gmail-filtros) |
 | 31/10/2026 | Curiosidade: o primeiro vírus de computador, o Creeper de 1971 (slot 09) | [`posts/2026-10-31-slot09-curiosidade-creeper`](posts/2026-10-31-slot09-curiosidade-creeper) |
+| 31/10/2026 | História da tecnologia: a primeira mensagem de texto (SMS) de 1992 (slot 10) | [`posts/2026-10-31-slot10-sms-historia`](posts/2026-10-31-slot10-sms-historia) |
 
 #multidicastec
