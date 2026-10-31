@@ -42,5 +42,6 @@ Este repositório guarda as imagens dos posts publicados no Instagram do MultiDi
 | 31/10/2026 | Novidade de IA: Google lança o Gemini 4 Carbon (slot 01) | [`posts/2026-10-31-slot01-gemini-4-carbon`](posts/2026-10-31-slot01-gemini-4-carbon) |
 | 31/10/2026 | Notícia: Google, Microsoft e OpenAI vão respeitar um único bloqueio de treino de IA no robots.txt (slot 02) | [`posts/2026-10-31-slot02-opt-out-ia-robots`](posts/2026-10-31-slot02-opt-out-ia-robots) |
 | 31/10/2026 | Dica prática: baixar mapas do Google para usar offline (slot 03) | [`posts/2026-10-31-slot03-google-maps-offline`](posts/2026-10-31-slot03-google-maps-offline) |
+| 31/10/2026 | Curiosidade: o primeiro HD da história, o IBM 305 RAMAC de 1956 (slot 04) | [`posts/2026-10-31-slot04-ramac-hd-1956`](posts/2026-10-31-slot04-ramac-hd-1956) |
 
 #multidicastec
