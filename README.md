@@ -50,5 +50,6 @@ Este repositório guarda as imagens dos posts publicados no Instagram do MultiDi
 | 31/10/2026 | Curiosidade: o primeiro vírus de computador, o Creeper de 1971 (slot 09) | [`posts/2026-10-31-slot09-curiosidade-creeper`](posts/2026-10-31-slot09-curiosidade-creeper) |
 | 31/10/2026 | História da tecnologia: a primeira mensagem de texto (SMS) de 1992 (slot 10) | [`posts/2026-10-31-slot10-sms-historia`](posts/2026-10-31-slot10-sms-historia) |
 | 31/10/2026 | Notícia: falha crítica no Brotli (CVE-2026-111497) já explorada (slot 12) | [`posts/2026-10-31-slot12-brotli-falha`](posts/2026-10-31-slot12-brotli-falha) |
+| 31/10/2026 | Dica prática: copiar texto de uma foto no iPhone com Live Text (slot 13) | [`posts/2026-10-31-slot13-live-text-foto`](posts/2026-10-31-slot13-live-text-foto) |
 
 #multidicastec
