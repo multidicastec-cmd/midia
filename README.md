@@ -53,6 +53,7 @@ Este repositório guarda as imagens dos posts publicados no Instagram do MultiDi
 | 31/10/2026 | Dica prática: copiar texto de uma foto no iPhone com Live Text (slot 13) | [`posts/2026-10-31-slot13-live-text-foto`](posts/2026-10-31-slot13-live-text-foto) |
 | 31/10/2026 | Curiosidade: o primeiro conjunto de emojis, com 176 ícones em 1999 (slot 14) | [`posts/2026-10-31-slot14-curiosidade-primeiro-emoji`](posts/2026-10-31-slot14-curiosidade-primeiro-emoji) |
 | 31/10/2026 | História do QR Code: de 1994 ao Pix (slot 15) | [`posts/2026-10-31-slot15-qr-code-historia`](posts/2026-10-31-slot15-qr-code-historia) |
+| 31/10/2026 | Curiosidade: a primeira webcam do mundo existiu para checar o café (slot 19) | [`posts/2026-10-31-slot19-curiosidade-webcam-cafeteira`](posts/2026-10-31-slot19-curiosidade-webcam-cafeteira) |
 | 31/10/2026 | História do Bluetooth: do rei dinamarquês ao primeiro celular (slot 20) | [`posts/2026-10-31-slot20-bluetooth-historia`](posts/2026-10-31-slot20-bluetooth-historia) |
 
 #multidicastec
