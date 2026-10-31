@@ -41,5 +41,6 @@ Este repositório guarda as imagens dos posts publicados no Instagram do MultiDi
 | 30/10/2026 | Curiosidade: a primeira foto digital levou 23 segundos, em 1975 (slot 19) | [`posts/2026-10-30-slot19-primeira-foto-digital`](posts/2026-10-30-slot19-primeira-foto-digital) |
 | 31/10/2026 | Novidade de IA: Google lança o Gemini 4 Carbon (slot 01) | [`posts/2026-10-31-slot01-gemini-4-carbon`](posts/2026-10-31-slot01-gemini-4-carbon) |
 | 31/10/2026 | Notícia: Google, Microsoft e OpenAI vão respeitar um único bloqueio de treino de IA no robots.txt (slot 02) | [`posts/2026-10-31-slot02-opt-out-ia-robots`](posts/2026-10-31-slot02-opt-out-ia-robots) |
+| 31/10/2026 | Dica prática: baixar mapas do Google para usar offline (slot 03) | [`posts/2026-10-31-slot03-google-maps-offline`](posts/2026-10-31-slot03-google-maps-offline) |
 
 #multidicastec
