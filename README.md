@@ -47,5 +47,6 @@ Este repositório guarda as imagens dos posts publicados no Instagram do MultiDi
 | 31/10/2026 | Novidade de IA: Gemini cria e edita arquivos dentro do chat (slot 06) | [`posts/2026-10-31-slot06-gemini-edita-arquivos`](posts/2026-10-31-slot06-gemini-edita-arquivos) |
 | 31/10/2026 | Notícia: CEO da Verizon e Musk divergem sobre prazo da rede móvel da SpaceX (slot 07) | [`posts/2026-10-31-slot07-verizon-spacex-rede`](posts/2026-10-31-slot07-verizon-spacex-rede) |
 | 31/10/2026 | Como criar filtros no Gmail (slot 08) | [`posts/2026-10-31-slot08-gmail-filtros`](posts/2026-10-31-slot08-gmail-filtros) |
+| 31/10/2026 | Curiosidade: o primeiro vírus de computador, o Creeper de 1971 (slot 09) | [`posts/2026-10-31-slot09-curiosidade-creeper`](posts/2026-10-31-slot09-curiosidade-creeper) |
 
 #multidicastec
