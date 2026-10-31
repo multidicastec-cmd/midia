@@ -43,5 +43,6 @@ Este repositório guarda as imagens dos posts publicados no Instagram do MultiDi
 | 31/10/2026 | Notícia: Google, Microsoft e OpenAI vão respeitar um único bloqueio de treino de IA no robots.txt (slot 02) | [`posts/2026-10-31-slot02-opt-out-ia-robots`](posts/2026-10-31-slot02-opt-out-ia-robots) |
 | 31/10/2026 | Dica prática: baixar mapas do Google para usar offline (slot 03) | [`posts/2026-10-31-slot03-google-maps-offline`](posts/2026-10-31-slot03-google-maps-offline) |
 | 31/10/2026 | Curiosidade: o primeiro HD da história, o IBM 305 RAMAC de 1956 (slot 04) | [`posts/2026-10-31-slot04-ramac-hd-1956`](posts/2026-10-31-slot04-ramac-hd-1956) |
+| 31/10/2026 | História da tecnologia: do conector USB à especificação de 1996 (slot 05) | [`posts/2026-10-31-slot05-usb-historia`](posts/2026-10-31-slot05-usb-historia) |
 
 #multidicastec
