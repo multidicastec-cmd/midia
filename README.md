@@ -63,3 +63,4 @@ Este repositório guarda as imagens dos posts publicados no Instagram do MultiDi
 | 01/11/2026 | História da tecnologia: a primeira ligação de celular portátil, em 1973 (slot 10) | [`posts/2026-11-01-slot10-historia-celular`](posts/2026-11-01-slot10-historia-celular) |
 
 #multidicastec
+| 01/11/2026 | Curiosidade: o IBM Simon (1994) e a bateria de cerca de 1 hora (slot 14) | [`posts/2026-11-01-slot14-ibm-simon-bateria`](posts/2026-11-01-slot14-ibm-simon-bateria) |
