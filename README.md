@@ -57,5 +57,6 @@ Este repositório guarda as imagens dos posts publicados no Instagram do MultiDi
 | 31/10/2026 | História do Bluetooth: do rei dinamarquês ao primeiro celular (slot 20) | [`posts/2026-10-31-slot20-bluetooth-historia`](posts/2026-10-31-slot20-bluetooth-historia) |
 | 01/11/2026 | Gemini cria e edita arquivos dentro do chat (slot 01) | [`posts/2026-11-01-slot01-gemini-edita-arquivos`](posts/2026-11-01-slot01-gemini-edita-arquivos) |
 | 01/11/2026 | SMS invisível derruba app de telefone do Android (slot 02) | [`posts/2026-11-01-slot02-android-sms-falha`](posts/2026-11-01-slot02-android-sms-falha) |
+| 01/11/2026 | Dica prática: compartilhar a senha do Wi-Fi com iPhone por proximidade (slot 03) | [`posts/2026-11-01-slot03-dica-wifi-iphone`](posts/2026-11-01-slot03-dica-wifi-iphone) |
 
 #multidicastec
