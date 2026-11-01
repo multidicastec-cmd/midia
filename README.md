@@ -59,5 +59,6 @@ Este repositório guarda as imagens dos posts publicados no Instagram do MultiDi
 | 01/11/2026 | SMS invisível derruba app de telefone do Android (slot 02) | [`posts/2026-11-01-slot02-android-sms-falha`](posts/2026-11-01-slot02-android-sms-falha) |
 | 01/11/2026 | Dica prática: compartilhar a senha do Wi-Fi com iPhone por proximidade (slot 03) | [`posts/2026-11-01-slot03-dica-wifi-iphone`](posts/2026-11-01-slot03-dica-wifi-iphone) |
 | 01/11/2026 | Curiosidade: o primeiro domínio .com registrado, symbolics.com (slot 04) | [`posts/2026-11-01-slot04-primeiro-com`](posts/2026-11-01-slot04-primeiro-com) |
+| 01/11/2026 | Curiosidade: o primeiro vídeo do YouTube durou 19 segundos (slot 09) | [`posts/2026-11-01-slot09-primeiro-youtube-19s`](posts/2026-11-01-slot09-primeiro-youtube-19s) |
 
 #multidicastec
