@@ -63,5 +63,6 @@ Este repositório guarda as imagens dos posts publicados no Instagram do MultiDi
 | 01/11/2026 | História da tecnologia: a primeira ligação de celular portátil, em 1973 (slot 10) | [`posts/2026-11-01-slot10-historia-celular`](posts/2026-11-01-slot10-historia-celular) |
 | 01/11/2026 | Curiosidade: o IBM Simon (1994) e a bateria de cerca de 1 hora (slot 14) | [`posts/2026-11-01-slot14-ibm-simon-bateria`](posts/2026-11-01-slot14-ibm-simon-bateria) |
 | 01/11/2026 | História da tecnologia: o disquete, do 23FD de 1971 ao 1,44 MB (slot 15) | [`posts/2026-11-01-slot15-disquete-historia`](posts/2026-11-01-slot15-disquete-historia) |
+| 01/11/2026 | História da tecnologia: o Linux, de 25/08/1991 ao mascote Tux (slot 20) | [`posts/2026-11-01-slot20-historia-linux`](posts/2026-11-01-slot20-historia-linux) |
 
 #multidicastec
