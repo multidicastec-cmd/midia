@@ -68,3 +68,4 @@ Este repositório guarda as imagens dos posts publicados no Instagram do MultiDi
 #multidicastec
 | 2026-11-02 | Games de novembro: Ocarina of Time (5/11) e GTA 6 (19/11) | posts/2026-11-02-slot02-games-novembro |
 | 2026-11-02 | Primeiro tweet vendido como NFT (slot 09) | posts/2026-11-02-slot09-primeiro-tweet-nft |
+| 2026-11-02 | História do transistor: Bell Labs, 1947 a 1956 (slot 10) | posts/2026-11-02-slot10-transistor-historia |
