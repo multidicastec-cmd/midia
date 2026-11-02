@@ -66,3 +66,4 @@ Este repositório guarda as imagens dos posts publicados no Instagram do MultiDi
 | 01/11/2026 | História da tecnologia: o Linux, de 25/08/1991 ao mascote Tux (slot 20) | [`posts/2026-11-01-slot20-historia-linux`](posts/2026-11-01-slot20-historia-linux) |
 
 #multidicastec
+| 2026-11-02 | Games de novembro: Ocarina of Time (5/11) e GTA 6 (19/11) | posts/2026-11-02-slot02-games-novembro |
