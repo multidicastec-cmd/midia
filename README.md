@@ -70,3 +70,4 @@ Este repositório guarda as imagens dos posts publicados no Instagram do MultiDi
 | 2026-11-02 | Primeiro tweet vendido como NFT (slot 09) | posts/2026-11-02-slot09-primeiro-tweet-nft |
 | 2026-11-02 | História do transistor: Bell Labs, 1947 a 1956 (slot 10) | posts/2026-11-02-slot10-transistor-historia |
 | 2026-11-02 | Pong sem CPU (curiosidade, slot 14) | posts/2026-11-02-slot14-pong-sem-cpu |
+| 2026-11-02 | Ethernet: do memorando de 1973 ao padrão IEEE 802.3 | posts/2026-11-02-slot15-ethernet-historia |
