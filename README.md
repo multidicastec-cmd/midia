@@ -76,3 +76,4 @@ Este repositório guarda as imagens dos posts publicados no Instagram do MultiDi
 
 | 2026-11-03 | Dica prática: traduzir uma página no Chrome (slot 08) | posts/2026-11-03-slot08-chrome-traduzir |
 | 2026-11-03 | Curiosidade: a primeira imagem GIF era um avião (slot 09) | posts/2026-11-03-slot09-gif-aviao |
+| 2026-11-03 | História: o Sputnik 2 e a cadela Laika (slot 10) | posts/2026-11-03-slot10-laika-sputnik2 |
