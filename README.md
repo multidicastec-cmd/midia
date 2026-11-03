@@ -75,3 +75,4 @@ Este repositório guarda as imagens dos posts publicados no Instagram do MultiDi
 | 02/11/2026 | Curiosidade: o Osborne 1 (1981) pesava 11 kg (slot 19) | [`posts/2026-11-02-slot19-osborne-1-peso`](posts/2026-11-02-slot19-osborne-1-peso) |
 
 | 2026-11-03 | Dica prática: traduzir uma página no Chrome (slot 08) | posts/2026-11-03-slot08-chrome-traduzir |
+| 2026-11-03 | Curiosidade: a primeira imagem GIF era um avião (slot 09) | posts/2026-11-03-slot09-gif-aviao |
