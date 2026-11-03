@@ -79,3 +79,4 @@ Este repositório guarda as imagens dos posts publicados no Instagram do MultiDi
 | 2026-11-03 | História: o Sputnik 2 e a cadela Laika (slot 10) | posts/2026-11-03-slot10-laika-sputnik2 |
 
 | 2026-11-03 | História: o Walkman (1979) e a linha do tempo do tocador portátil (slot 20) | posts/2026-11-03-slot20-walkman-historia |
+| 2026-11-03 | Curiosidade: a canção "Tom's Diner" ajudou a ajustar o MP3 (slot 19) | posts/2026-11-03-slot19-tom-diner-mp3 |
