@@ -73,3 +73,5 @@ Este repositório guarda as imagens dos posts publicados no Instagram do MultiDi
 | 2026-11-02 | Ethernet: do memorando de 1973 ao padrão IEEE 802.3 | posts/2026-11-02-slot15-ethernet-historia |
 | 2026-11-02 | Apple alerta políticos alemães sobre spyware em iPhones (slot 17) | posts/2026-11-02-slot17-apple-spyware-alemanha |
 | 02/11/2026 | Curiosidade: o Osborne 1 (1981) pesava 11 kg (slot 19) | [`posts/2026-11-02-slot19-osborne-1-peso`](posts/2026-11-02-slot19-osborne-1-peso) |
+
+| 2026-11-03 | Dica prática: traduzir uma página no Chrome (slot 08) | posts/2026-11-03-slot08-chrome-traduzir |
