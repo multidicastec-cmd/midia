@@ -81,3 +81,5 @@ Este repositório guarda as imagens dos posts publicados no Instagram do MultiDi
 
 | 2026-11-03 | História: o Walkman (1979) e a linha do tempo do tocador portátil (slot 20) | posts/2026-11-03-slot20-walkman-historia |
 | 2026-11-03 | Curiosidade: a canção "Tom's Diner" ajudou a ajustar o MP3 (slot 19) | posts/2026-11-03-slot19-tom-diner-mp3 |
+
+| 2026-11-04 | Dica prática: Modo Foco no Android (slot 13) | posts/2026-11-04-slot13-modo-foco-android |
