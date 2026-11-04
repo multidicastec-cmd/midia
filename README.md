@@ -83,3 +83,4 @@ Este repositório guarda as imagens dos posts publicados no Instagram do MultiDi
 | 2026-11-03 | Curiosidade: a canção "Tom's Diner" ajudou a ajustar o MP3 (slot 19) | posts/2026-11-03-slot19-tom-diner-mp3 |
 
 | 2026-11-04 | Dica prática: Modo Foco no Android (slot 13) | posts/2026-11-04-slot13-modo-foco-android |
+| 2026-11-04 | Curiosidade: a primeira foto enviada de celular era da filha de Philippe Kahn (slot 14) | posts/2026-11-04-slot14-camera-phone-1997 |
